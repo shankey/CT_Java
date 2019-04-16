@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/application.conf,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/evolutions,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/evolutions/default,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/evolutions/default)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/evolutions/default/1.sql,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/evolutions/default/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/evolutions/default/2.sql,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/evolutions/default/2.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/logback.xml,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/META-INF,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/META-INF)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/META-INF/persistence.xml,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/META-INF/persistence.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/production.conf,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/production.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/adinema/Dev/CT_Java/ct/conf/routes,/Users/adinema/Dev/CT_Java/ct/target/scala-2.12/classes/routes)[0m

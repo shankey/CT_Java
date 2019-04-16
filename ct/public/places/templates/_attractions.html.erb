@@ -1,0 +1,16 @@
+<div role="tabpanel" class="tab-pane fade" id="attractions">
+        
+        <ul>
+
+            <% @attractions_array.each do |item| %>
+                <li class="vertical-image-list">
+                        <img class="left-align" src="<%= item.url %>"> 
+                        <h5 class="attraction-sub-heading"><b><%= item.heading %></b></h5>
+
+                        <%= item.description %>
+                        
+                </li>  
+            <% end %>
+        </ul>
+                    
+</div>

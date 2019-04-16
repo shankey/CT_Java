@@ -1,0 +1,85 @@
+<% content_for :canonical_tag do %>
+    <% blank_on_nil (@canonical_location) %>
+<% end %>
+<div class="banner">
+            <%= render "/ct_controller/topnav" %>
+		
+			<div class="banner-bottom left-right-margin">
+			    
+                <%= render get_r_place_title_path(@story_id) %>
+                						
+            </div>
+</div>
+
+<div class="parent-null">
+<!--    <div class="col-md-3"></div>-->
+    <div class="center-text">
+        <div class="page-menu">
+  <!-- Nav tabs -->
+            <ul class="nav nav-pills" role="tablist">
+                <li role="presentation" class="active"><a href="#about" aria-controls="home" role="tab" data-toggle="tab">About</a></li>
+                <li role="presentation"><a href="#travelstory" aria-controls="profile" role="tab" data-toggle="tab">Travel Story</a></li>
+                <li role="presentation"><a href="#attractions" aria-controls="messages" role="tab" data-toggle="tab">Attractions</a></li>
+                <li role="presentation"><a href="#photogallery" aria-controls="settings" role="tab" data-toggle="tab">Photo Gallery</a></li>
+                <li role="presentation"><a href="#stay" aria-controls="settings" role="tab" data-toggle="tab">Stay</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+
+<div class="parent-null">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+        <div class="tab-content blog-text">
+            
+            <div role="tabpanel" class="tab-pane fade in active" id="about">
+                <h4 class="about-sub-heading"> About <%= render get_r_place_location_path(@story_id) %></h4>
+
+
+                <div>
+                   <%= render get_r_place_about_path(@story_id)  %>
+                </div>
+                
+                <hr>
+            
+                <div class="parent-null">
+                    <h4 class="about-sub-heading"> How To Reach</h4>
+                
+                    <%= render get_r_place_reach_path(@story_id)  %>
+            
+                </div>
+                <hr>
+                <h4 class="about-sub-heading"> Best Time To Go </h4>
+        
+                <%= render get_r_place_besttime_path(@story_id)  %>
+        
+        
+        
+            </div>
+        
+            
+                <%= render get_r_place_story_path(@story_id)  %>          
+            
+            
+                <%= render get_r_place_attractions_path(@story_id)  %>
+            
+            
+                <%= render get_r_place_gallery_path  %>
+            
+            
+                <%= render get_r_place_stay_path(@story_id)  %>
+            
+            
+        </div>
+    </div>
+    <div class="col-md-2"></div>
+    </div>
+

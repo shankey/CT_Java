@@ -1,0 +1,19 @@
+<div role="tabpanel" class="tab-pane fade" id="photogallery">
+                    
+                    
+            <section id="pics">
+
+                  <% @picture_array.each do |item| %>
+                        <div class="pin">
+                        
+                              <a href='<%= item.url %>' data-lightbox="roadtrip" data-title="" id="pic1">
+                              <img src='<%= item.url %>' id="pic1">
+                              </a>
+                              
+                        </div>
+                  <% end %>
+                       
+            </section>
+                    
+                    
+</div>

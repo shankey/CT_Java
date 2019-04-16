@@ -1,0 +1,2 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/adinema/Dev/CT_Java/ct/app/controllers/HomeController.java:73:1: illegal escape character[0m
+[0m[[0m[31merror[0m] [0m[0m        location = location.replaceAll(" \s+", " ");[0m

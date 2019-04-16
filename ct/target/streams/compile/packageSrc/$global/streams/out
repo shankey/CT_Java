@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/adinema/Dev/CT_Java/ct/target/scala-2.12/ct_2.12-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	database/DatabaseExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/database/DatabaseExecutionContext.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/Users.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/models/Users.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	database/JavaApplicationDatabase.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/database/JavaApplicationDatabase.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/evolutions/default[0m
+[0m[[0m[0mdebug[0m] [0m[0m	database/JPARepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/database/JPARepository.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	production.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/production.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/META-INF[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions/default/1.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/evolutions/default/1.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/evolutions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	pojo/TravelStoryOut.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/pojo/TravelStoryOut.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	models/TravelStories.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/app/models/TravelStories.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	META-INF/persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/META-INF/persistence.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	evolutions/default/2.sql[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/adinema/Dev/CT_Java/ct/conf/evolutions/default/2.sql[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
